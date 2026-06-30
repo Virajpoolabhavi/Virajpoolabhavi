@@ -1,61 +1,73 @@
 # Hi, I'm Viraj Poolabhavi 👋
 
-### AI/ML Developer | Python & Django | Building practical, data-driven products
+### Software Engineer at Oracle | Python, Agentic AI & Cloud-Native Systems
 
-I build applications that turn data and unstructured content into useful experiences. My work spans generative AI, retrieval-augmented question answering, machine learning, and Django-based web development.
+I build asynchronous Python services, reusable AI platform components, REST APIs, and cloud-native enterprise systems. My work spans agentic workflows, retrieval and NLP systems, containerized deployments, and production engineering on OCI and Kubernetes.
 
-- 🔭 Currently strengthening my data structures and algorithms skills through regular problem solving
-- 🧠 Interested in applied AI, backend engineering, and intelligent information systems
-- 🛠️ I enjoy taking projects from data processing and model integration to a usable interface
-- 💼 Open to software engineering, Python development, and AI/ML opportunities
+- 💼 Software Engineer at Oracle - Gen AI Developer, Tech Cloud
+- ⚙️ Focused on Python, FastAPI, AsyncIO, LangGraph, LangChain, MCP and A2A systems
+- ☁️ Experienced with OCI, Docker, Kubernetes (OKE) and CI/CD
+- 🎓 B.E. in Artificial Intelligence and Machine Learning, GPA 9.0/10
 
-## Featured projects
+## Professional impact
+
+- Re-architected a monolithic Python pipeline into modular asynchronous workflows, improving end-to-end execution speed by `10x`.
+- Designed a reusable agent and tool registry supporting `4+` independent workflows with tool-level access controls.
+- Built `6+` domain-focused services for retrieval, validation, extraction and document generation.
+- Developed document automation and NLP extraction services that reduced manual effort and operational cost by `80%`.
+- Containerized services and delivered them through Kubernetes and CI/CD across cloud environments.
+
+> Enterprise source code, client data and internal architecture are private. The points above describe responsibilities and measurable outcomes without exposing confidential implementation details.
+
+## Public projects
 
 ### [TextHarvestAI](https://github.com/Virajpoolabhavi/TextHarvestAI)
 
-An AI-assisted research application that lets users ask questions about web pages and PDF documents.
+A Streamlit research assistant for querying web pages and PDFs with Gemini, LangChain embeddings and FAISS vector retrieval.
 
-- Extracts text from URLs and uploaded PDFs
-- Splits and embeds content for semantic retrieval with FAISS
-- Uses Gemini through LangChain to generate context-aware answers
-- Provides an interactive Streamlit interface
-
-`Python` · `Streamlit` · `Gemini` · `LangChain` · `FAISS` · `Beautiful Soup`
+`Python` · `Streamlit` · `Gemini` · `LangChain` · `FAISS`
 
 ### [GourmetHub](https://github.com/Virajpoolabhavi/GourmetHub-Integrated-Food-Order-and-Analytics-platform)
 
-A full-stack food ordering and analytics platform built with Django.
+A Django food-ordering and analytics platform with authentication, relational data models, order management and Chart.js dashboards.
 
-- Supports user registration, authentication, menu browsing, and order summaries
-- Persists menu and order data with Django ORM and SQLite
-- Provides customer- and platform-level ordering insights with Chart.js
-- Includes separate customer and administrator workflows
+`Python` · `Django` · `SQLite` · `Chart.js`
 
-`Python` · `Django` · `SQLite` · `HTML` · `CSS` · `Chart.js`
+### [Machine Learning Portfolio](https://github.com/Virajpoolabhavi?tab=repositories)
 
-### [Machine Learning Projects](https://github.com/Virajpoolabhavi?tab=repositories&q=prediction)
+Classification and regression projects covering heart-disease risk, diabetes, loan approval, wine quality and sonar-signal prediction.
 
-A collection of supervised learning projects covering classification and regression problems, including heart disease, diabetes, loan approval, wine quality, and sonar signal prediction.
+`scikit-learn` · `pandas` · `NumPy` · `Jupyter`
 
-`Python` · `scikit-learn` · `pandas` · `NumPy` · `Jupyter`
+## Additional project experience
+
+### DoctorAI - Healthcare AI Application
+
+- Built an end-to-end ML workflow covering ingestion, training, evaluation, versioning, containerization and deployment readiness.
+- Fine-tuned Microsoft Phi-2 with QLoRA and benchmarked Logistic Regression, SVM and Random Forest models using accuracy and F1 score.
+- Used Python, scikit-learn, MLflow, Docker and CI/CD.
+
+The implementation is not published because it contains work that is not appropriate for a public repository.
 
 ## Technical toolkit
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Python, SQL, HTML, CSS |
-| AI & machine learning | scikit-learn, pandas, NumPy, Gemini, LangChain, FAISS |
-| Backend & apps | Django, Streamlit, REST concepts |
-| Data & tooling | SQLite, Jupyter Notebook, Git, GitHub |
+| Languages | Python, Java, SQL |
+| Backend & systems | FastAPI, REST APIs, AsyncIO, API design, modular architecture, A2A protocol |
+| AI & data | Oracle AI Database 26ai, ChromaDB, FAISS, vector search, RAG, NLP, LangGraph, LangChain, MCP |
+| Cloud & DevOps | OCI, Docker, Kubernetes (OKE), CI/CD, Git, GitHub |
+| Machine learning | scikit-learn, pandas, NumPy, MLflow, Jupyter |
 
-## What I bring
+## Certifications
 
-- Practical experience integrating LLMs, embeddings, and vector search into user-facing applications
-- A foundation in classification, regression, feature preparation, and model evaluation
-- Backend development experience with authentication, relational data models, and server-rendered interfaces
-- A product mindset focused on turning technical ideas into tools people can use
+- Oracle Generative AI Foundations Associate
+- Oracle Cloud Infrastructure Associate
+- Oracle AI Developer Professional (AIDP) - Agentic AI
+- Oracle Agentic Workflow and Implementation
 
 ## Let's connect
 
-I'm open to opportunities where I can contribute to real products, learn from an experienced team, and grow as an engineer. The best way to reach me is through my GitHub profile or the contact links in the sidebar.
+I'm interested in software engineering, backend, platform and applied AI opportunities where I can build reliable systems with measurable impact.
 
+[LinkedIn](https://www.linkedin.com/in/viraj-poolabhavi) · [GitHub](https://github.com/Virajpoolabhavi)
