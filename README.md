@@ -84,6 +84,6 @@ The implementation is not public because it includes work that is not appropriat
 
 ## Let's connect
 
-I'm interested in building agentic AI platforms, multi-agent systems, MCP integrations and reliable AI workflows.
+I'm drawn to problems where agentic AI meets serious software engineering - building intelligent platforms that simplify complex workflows, scale reliably, and deliver measurable business impact.
 
 [LinkedIn](https://www.linkedin.com/in/viraj-poolabhavi) · [GitHub](https://github.com/Virajpoolabhavi)
