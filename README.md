@@ -55,7 +55,24 @@ A Streamlit research assistant that extracts content from web pages and PDFs, ge
 
 `Python` · `Gemini` · `LangChain` · `FAISS` · `RAG`
 
-## Additional AI experience
+## Selected AI work
+
+### Enterprise Agentic Workflow Platform - Oracle (private)
+
+- Re-architected a monolithic Python pipeline into modular LangGraph workflows, improving end-to-end execution speed by `10x`.
+- Designed a reusable Agent & Tool Registry that supports `4+` independent workflows while enforcing tool-level access controls.
+- Developed `6+` domain-specific tools for retrieval, validation, evaluation and document generation.
+- Implemented structured A2A communication so independent agents and services can delegate tasks and exchange predictable responses.
+
+`Python` · `LangGraph` · `LangChain` · `AsyncIO` · `A2A` · `MCP` · `FastAPI`
+
+### Enterprise AI Document Automation - Oracle (private)
+
+- Built AI-assisted document generation and information-extraction workflows that reduced manual effort by `80%`.
+- Created reusable services for retrieval, validation, generation and evaluation across multiple workflows.
+- Combined grounded context, tool orchestration and structured outputs to improve reliability and reduce operational cost by `80%`.
+
+`Python` · `RAG` · `Oracle AI Database 26ai` · `Vector Search` · `LangChain` · `FAISS`
 
 ### DoctorAI - Healthcare AI Application
 
