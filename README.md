@@ -55,7 +55,7 @@ A Streamlit research assistant that extracts content from web pages and PDFs, ge
 
 `Python` · `Gemini` · `LangChain` · `FAISS` · `RAG`
 
-## Selected AI work
+## AI Engineering Highlights
 
 ### Enterprise Agentic Workflow Platform - Oracle (private)
 
