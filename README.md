@@ -2,7 +2,7 @@
 
 ### Software Engineer at Oracle | Python, Agentic AI & Cloud-Native Systems
 
-I build asynchronous Python services, reusable AI platform components, REST APIs, and cloud-native enterprise systems. My work spans agentic workflows, retrieval and NLP systems, containerized deployments, and production engineering on OCI and Kubernetes.
+I build Asynchronous Python services, reusable AI platform components, REST APIs, and cloud-native enterprise systems. My work spans agentic workflows, retrieval and NLP systems, containerized deployments, and production engineering on OCI and Kubernetes.
 
 - 💼 Software Engineer at Oracle - Gen AI Developer, Tech Cloud
 - ⚙️ Focused on Python, FastAPI, AsyncIO, LangGraph, LangChain, MCP and A2A systems
